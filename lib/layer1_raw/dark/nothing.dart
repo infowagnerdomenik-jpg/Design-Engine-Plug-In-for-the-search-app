@@ -1,0 +1,55 @@
+import '../design_token.dart';
+
+// Layer 1 - Raw Values
+// Theme: Nothing (Dark)
+
+const DesignToken cnod1 = DesignToken.system('system_neutral1_1000');
+const DesignToken cnod2 = DesignToken.system('system_neutral1_100');
+const DesignToken cnod3 = DesignToken.system('system_neutral1_1000');
+const DesignToken cnod4 = DesignToken.system('system_neutral1_100');
+const DesignToken cnod5 = DesignToken.system('system_neutral2_700');
+const DesignToken cnod6 = DesignToken.system('system_neutral2_300');
+const DesignToken cnod7 = DesignToken.system('system_neutral1_100');
+const DesignToken cnod8 = DesignToken.system('system_neutral1_900');
+const DesignToken cnod9 = DesignToken.system('system_neutral1_800');
+const DesignToken cnod10 = DesignToken.system('system_neutral1_1000');
+const DesignToken cnod11 = DesignToken.system('system_neutral1_900');
+const DesignToken cnod12 = DesignToken.system('system_neutral1_800');
+const DesignToken cnod13 = DesignToken.system('system_neutral1_1000');
+const DesignToken cnod14 = DesignToken.system('system_neutral1_700');
+const DesignToken cnod15 = DesignToken.system('system_neutral1_900');
+const DesignToken cnod16 = DesignToken.system('system_neutral1_50');
+const DesignToken cnod17 = DesignToken.system('system_neutral1_900');
+const DesignToken cnod18 = DesignToken.system('system_neutral1_100');
+const DesignToken cnod19 = DesignToken.system('system_neutral1_900');
+const DesignToken cnod20 = DesignToken.system('system_neutral1_100');
+const DesignToken cnod21 = DesignToken.system('system_neutral1_200');
+const DesignToken cnod22 = DesignToken.system('system_neutral1_900');
+const DesignToken cnod23 = DesignToken.system('system_neutral1_800');
+const DesignToken cnod24 = DesignToken.system('system_neutral1_900');
+const DesignToken cnod25 = DesignToken.system('system_neutral2_300');
+const DesignToken cnod26 = DesignToken.system('system_neutral2_900');
+const DesignToken cnod27 = DesignToken.system('system_neutral2_700');
+const DesignToken cnod28 = DesignToken.system('system_neutral2_100');
+const DesignToken cnod29 = DesignToken.system('system_neutral2_100');
+const DesignToken cnod30 = DesignToken.system('system_neutral2_200');
+const DesignToken cnod31 = DesignToken.system('system_neutral2_900');
+const DesignToken cnod32 = DesignToken.system('system_neutral2_800');
+const DesignToken cnod33 = DesignToken.system('system_neutral2_200');
+const DesignToken cnod34 = DesignToken.system('system_neutral2_900');
+const DesignToken cnod35 = DesignToken.system('system_neutral2_800');
+const DesignToken cnod36 = DesignToken.system('system_neutral2_100');
+const DesignToken cnod37 = DesignToken.system('system_neutral2_200');
+const DesignToken cnod38 = DesignToken.system('system_neutral2_300');
+const DesignToken cnod39 = DesignToken.system('system_neutral2_900');
+const DesignToken cnod40 = DesignToken.system('system_neutral2_800');
+const DesignToken cnod41 = DesignToken.hex(0xFFD71921);
+const DesignToken cnod42 = DesignToken.hex(0xFFFFFFFF);
+const DesignToken cnod43 = DesignToken.hex(0xFF4A070A);
+const DesignToken cnod44 = DesignToken.hex(0xFFFAD1D3);
+const DesignToken cnod45 = DesignToken.system('system_neutral2_400');
+const DesignToken cnod46 = DesignToken.system('system_neutral2_700');
+const DesignToken cnod47 = DesignToken.hex(0xFFD71921);
+const DesignToken cnod48 = DesignToken.hex(0xFFFFFFFF);
+const DesignToken cnod49 = DesignToken.hex(0xFFFAD1D3);
+const DesignToken cnod50 = DesignToken.hex(0xFF4A070A);

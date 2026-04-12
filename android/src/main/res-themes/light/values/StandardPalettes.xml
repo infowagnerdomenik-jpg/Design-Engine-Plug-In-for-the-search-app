@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  Theme: Standard (Light)  -->
+    <!-- 1: Background -->
+    <color name="cstl1">#FDFDFD</color>
+    <!-- 2: On Background -->
+    <color name="cstl2">#1C1C1C</color>
+    <!-- 3: Surface -->
+    <color name="cstl3">#FDFDFD</color>
+    <!-- 4: On Surface -->
+    <color name="cstl4">#1C1C1C</color>
+    <!-- 5: Surface Variant -->
+    <color name="cstl5">#E1E1E1</color>
+    <!-- 6: On Surface Variant -->
+    <color name="cstl6">#444444</color>
+    <!-- 7: Inverse Surface -->
+    <color name="cstl7">#303030</color>
+    <!-- 8: Inverse On Surface -->
+    <color name="cstl8">#F2F2F2</color>
+    <!-- 9: Surface Bright -->
+    <color name="cstl9">#FDFDFD</color>
+    <!-- 10: Surface Dim -->
+    <color name="cstl10">#DCDCDC</color>
+    <!-- 11: Surface Container Low -->
+    <color name="cstl11">#F4F4F4</color>
+    <!-- 12: Surface Container High -->
+    <color name="cstl12">#E8E8E8</color>
+    <!-- 13: Surface Container Lowest -->
+    <color name="cstl13">#FFFFFF</color>
+    <!-- 14: Surface Container Highest -->
+    <color name="cstl14">#E2E2E2</color>
+    <!-- 15: Surface Container -->
+    <color name="cstl15">#EEEEEE</color>
+    <!-- 16: Primary -->
+    <color name="cstl16">#000000</color>
+    <!-- 17: On Primary -->
+    <color name="cstl17">#FFFFFF</color>
+    <!-- 18: Primary Container -->
+    <color name="cstl18">#262626</color>
+    <!-- 19: On Primary Container -->
+    <color name="cstl19">#212121</color>
+    <!-- 20: Primary Fixed -->
+    <color name="cstl20">#E2E2E2</color>
+    <!-- 21: Primary Fixed Dim -->
+    <color name="cstl21">#C4C4C4</color>
+    <!-- 22: On Primary Fixed -->
+    <color name="cstl22">#000000</color>
+    <!-- 23: On Primary Fixed Variant -->
+    <color name="cstl23">#444444</color>
+    <!-- 24: Inverse Primary -->
+    <color name="cstl24">#C4C4C4</color>
+    <!-- 25: Secondary -->
+    <color name="cstl25">#5E5E5E</color>
+    <!-- 26: On Secondary -->
+    <color name="cstl26">#FFFFFF</color>
+    <!-- 27: Secondary Container -->
+    <color name="cstl27">#E2E2E2</color>
+    <!-- 28: On Secondary Container -->
+    <color name="cstl28">#1C1C1C</color>
+    <!-- 29: Secondary Fixed -->
+    <color name="cstl29">#E2E2E2</color>
+    <!-- 30: Secondary Fixed Dim -->
+    <color name="cstl30">#C4C4C4</color>
+    <!-- 31: On Secondary Fixed -->
+    <color name="cstl31">#1C1C1C</color>
+    <!-- 32: On Secondary Fixed Variant -->
+    <color name="cstl32">#444444</color>
+    <!-- 33: Tertiary -->
+    <color name="cstl33">#5E5E5E</color>
+    <!-- 34: On Tertiary -->
+    <color name="cstl34">#FFFFFF</color>
+    <!-- 35: Tertiary Container -->
+    <color name="cstl35">#E2E2E2</color>
+    <!-- 36: On Tertiary Container -->
+    <color name="cstl36">#1C1C1C</color>
+    <!-- 37: Tertiary Fixed -->
+    <color name="cstl37">#E2E2E2</color>
+    <!-- 38: Tertiary Fixed Dim -->
+    <color name="cstl38">#C4C4C4</color>
+    <!-- 39: On Tertiary Fixed -->
+    <color name="cstl39">#1C1C1C</color>
+    <!-- 40: On Tertiary Fixed Variant -->
+    <color name="cstl40">#444444</color>
+    <!-- 41: Error -->
+    <color name="cstl41">#BA1A1A</color>
+    <!-- 42: On Error -->
+    <color name="cstl42">#FFFFFF</color>
+    <!-- 43: Error Container -->
+    <color name="cstl43">#FFDAD6</color>
+    <!-- 44: On Error Container -->
+    <color name="cstl44">#410002</color>
+    <!-- 45: Outline -->
+    <color name="cstl45">#757575</color>
+    <!-- 46: Outline Variant -->
+    <color name="cstl46">#C4C4C4</color>
+</resources>
+

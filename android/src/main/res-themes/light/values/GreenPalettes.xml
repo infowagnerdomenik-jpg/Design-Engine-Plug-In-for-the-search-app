@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  Theme: Green (Light)  -->
+    <!-- 1: Background -->
+    <color name="cgl1">#F5FBF3</color>
+    <!-- 2: On Background -->
+    <color name="cgl2">#171D16</color>
+    <!-- 3: Surface -->
+    <color name="cgl3">#F5FBF3</color>
+    <!-- 4: On Surface -->
+    <color name="cgl4">#171D16</color>
+    <!-- 5: Surface Variant -->
+    <color name="cgl5">#DEE5D9</color>
+    <!-- 6: On Surface Variant -->
+    <color name="cgl6">#424940</color>
+    <!-- 7: Inverse Surface -->
+    <color name="cgl7">#2C322B</color>
+    <!-- 8: Inverse On Surface -->
+    <color name="cgl8">#EDF2EA</color>
+    <!-- 9: Surface Bright -->
+    <color name="cgl9">#F5FBF3</color>
+    <!-- 10: Surface Dim -->
+    <color name="cgl10">#D6DBD4</color>
+    <!-- 11: Surface Container Low -->
+    <color name="cgl11">#EFF5EC</color>
+    <!-- 12: Surface Container High -->
+    <color name="cgl12">#E4EAE1</color>
+    <!-- 13: Surface Container Lowest -->
+    <color name="cgl13">#FFFFFF</color>
+    <!-- 14: Surface Container Highest -->
+    <color name="cgl14">#DEE4DB</color>
+    <!-- 15: Surface Container -->
+    <color name="cgl15">#E9EFE6</color>
+    <!-- 16: Primary -->
+    <color name="cgl16">#006C49</color>
+    <!-- 17: On Primary -->
+    <color name="cgl17">#FFFFFF</color>
+    <!-- 18: Primary Container -->
+    <color name="cgl18">#5CFCB6</color>
+    <!-- 19: On Primary Container -->
+    <color name="cgl19">#002111</color>
+    <!-- 20: Primary Fixed -->
+    <color name="cgl20">#5CFCB6</color>
+    <!-- 21: Primary Fixed Dim -->
+    <color name="cgl21">#3ADA9D</color>
+    <!-- 22: On Primary Fixed -->
+    <color name="cgl22">#002111</color>
+    <!-- 23: On Primary Fixed Variant -->
+    <color name="cgl23">#005235</color>
+    <!-- 24: Inverse Primary -->
+    <color name="cgl24">#3ADA9D</color>
+    <!-- 25: Secondary -->
+    <color name="cgl25">#4C6356</color>
+    <!-- 26: On Secondary -->
+    <color name="cgl26">#FFFFFF</color>
+    <!-- 27: Secondary Container -->
+    <color name="cgl27">#CEE9D7</color>
+    <!-- 28: On Secondary Container -->
+    <color name="cgl28">#0A2015</color>
+    <!-- 29: Secondary Fixed -->
+    <color name="cgl29">#CEE9D7</color>
+    <!-- 30: Secondary Fixed Dim -->
+    <color name="cgl30">#B3CCBC</color>
+    <!-- 31: On Secondary Fixed -->
+    <color name="cgl31">#0A2015</color>
+    <!-- 32: On Secondary Fixed Variant -->
+    <color name="cgl32">#354B40</color>
+    <!-- 33: Tertiary -->
+    <color name="cgl33">#3D6470</color>
+    <!-- 34: On Tertiary -->
+    <color name="cgl34">#FFFFFF</color>
+    <!-- 35: Tertiary Container -->
+    <color name="cgl35">#C0E9FA</color>
+    <!-- 36: On Tertiary Container -->
+    <color name="cgl36">#001F28</color>
+    <!-- 37: Tertiary Fixed -->
+    <color name="cgl37">#C0E9FA</color>
+    <!-- 38: Tertiary Fixed Dim -->
+    <color name="cgl38">#A4CDDD</color>
+    <!-- 39: On Tertiary Fixed -->
+    <color name="cgl39">#001F28</color>
+    <!-- 40: On Tertiary Fixed Variant -->
+    <color name="cgl40">#244C58</color>
+    <!-- 41: Error -->
+    <color name="cgl41">#A43B23</color>
+    <!-- 42: On Error -->
+    <color name="cgl42">#FFFFFF</color>
+    <!-- 43: Error Container -->
+    <color name="cgl43">#FFDAD3</color>
+    <!-- 44: On Error Container -->
+    <color name="cgl44">#3A0A04</color>
+    <!-- 45: Outline -->
+    <color name="cgl45">#737970</color>
+    <!-- 46: Outline Variant -->
+    <color name="cgl46">#C2C9BD</color>
+</resources>
+

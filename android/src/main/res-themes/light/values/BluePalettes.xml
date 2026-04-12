@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  Theme: Blue (Light)  -->
+    <!-- 1: Background -->
+    <color name="cbl1">#F9F9FF</color>
+    <!-- 2: On Background -->
+    <color name="cbl2">#191C20</color>
+    <!-- 3: Surface -->
+    <color name="cbl3">#F9F9FF</color>
+    <!-- 4: On Surface -->
+    <color name="cbl4">#191C20</color>
+    <!-- 5: Surface Variant -->
+    <color name="cbl5">#E1E2EC</color>
+    <!-- 6: On Surface Variant -->
+    <color name="cbl6">#44474F</color>
+    <!-- 7: Inverse Surface -->
+    <color name="cbl7">#2E3036</color>
+    <!-- 8: Inverse On Surface -->
+    <color name="cbl8">#F1F0F4</color>
+    <!-- 9: Surface Bright -->
+    <color name="cbl9">#F9F9FF</color>
+    <!-- 10: Surface Dim -->
+    <color name="cbl10">#D9D9E0</color>
+    <!-- 11: Surface Container Low -->
+    <color name="cbl11">#F3F3FA</color>
+    <!-- 12: Surface Container High -->
+    <color name="cbl12">#E7E8EE</color>
+    <!-- 13: Surface Container Lowest -->
+    <color name="cbl13">#FFFFFF</color>
+    <!-- 14: Surface Container Highest -->
+    <color name="cbl14">#E2E2E9</color>
+    <!-- 15: Surface Container -->
+    <color name="cbl15">#EDEDF4</color>
+    <!-- 16: Primary -->
+    <color name="cbl16">#415F91</color>
+    <!-- 17: On Primary -->
+    <color name="cbl17">#FFFFFF</color>
+    <!-- 18: Primary Container -->
+    <color name="cbl18">#D3E3FD</color>
+    <!-- 19: On Primary Container -->
+    <color name="cbl19">#001943</color>
+    <!-- 20: Primary Fixed -->
+    <color name="cbl20">#D3E3FD</color>
+    <!-- 21: Primary Fixed Dim -->
+    <color name="cbl21">#A8C7FA</color>
+    <!-- 22: On Primary Fixed -->
+    <color name="cbl22">#001943</color>
+    <!-- 23: On Primary Fixed Variant -->
+    <color name="cbl23">#284777</color>
+    <!-- 24: Inverse Primary -->
+    <color name="cbl24">#A8C7FA</color>
+    <!-- 25: Secondary -->
+    <color name="cbl25">#565F71</color>
+    <!-- 26: On Secondary -->
+    <color name="cbl26">#FFFFFF</color>
+    <!-- 27: Secondary Container -->
+    <color name="cbl27">#DAE2F9</color>
+    <!-- 28: On Secondary Container -->
+    <color name="cbl28">#131C2B</color>
+    <!-- 29: Secondary Fixed -->
+    <color name="cbl29">#DAE2F9</color>
+    <!-- 30: Secondary Fixed Dim -->
+    <color name="cbl30">#BEC6DC</color>
+    <!-- 31: On Secondary Fixed -->
+    <color name="cbl31">#131C2B</color>
+    <!-- 32: On Secondary Fixed Variant -->
+    <color name="cbl32">#3E4759</color>
+    <!-- 33: Tertiary -->
+    <color name="cbl33">#705575</color>
+    <!-- 34: On Tertiary -->
+    <color name="cbl34">#FFFFFF</color>
+    <!-- 35: Tertiary Container -->
+    <color name="cbl35">#FAD8FD</color>
+    <!-- 36: On Tertiary Container -->
+    <color name="cbl36">#28132E</color>
+    <!-- 37: Tertiary Fixed -->
+    <color name="cbl37">#FAD8FD</color>
+    <!-- 38: Tertiary Fixed Dim -->
+    <color name="cbl38">#DDBCE0</color>
+    <!-- 39: On Tertiary Fixed -->
+    <color name="cbl39">#28132E</color>
+    <!-- 40: On Tertiary Fixed Variant -->
+    <color name="cbl40">#573E5C</color>
+    <!-- 41: Error -->
+    <color name="cbl41">#BA1A1A</color>
+    <!-- 42: On Error -->
+    <color name="cbl42">#FFFFFF</color>
+    <!-- 43: Error Container -->
+    <color name="cbl43">#FFDAD6</color>
+    <!-- 44: On Error Container -->
+    <color name="cbl44">#410002</color>
+    <!-- 45: Outline -->
+    <color name="cbl45">#74777F</color>
+    <!-- 46: Outline Variant -->
+    <color name="cbl46">#C4C6D0</color>
+</resources>
+

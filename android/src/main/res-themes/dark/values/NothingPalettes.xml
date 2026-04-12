@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  Theme: Nothing (Dark)  -->
+    <!-- 1: Background -->
+    <item type="color" name="cnod1">@android:color/system_neutral1_1000</item>
+    <!-- 2: On Background -->
+    <item type="color" name="cnod2">@android:color/system_neutral1_100</item>
+    <!-- 3: Surface -->
+    <item type="color" name="cnod3">@android:color/system_neutral1_1000</item>
+    <!-- 4: On Surface -->
+    <item type="color" name="cnod4">@android:color/system_neutral1_100</item>
+    <!-- 5: Surface Variant -->
+    <item type="color" name="cnod5">@android:color/system_neutral2_700</item>
+    <!-- 6: On Surface Variant -->
+    <item type="color" name="cnod6">@android:color/system_neutral2_300</item>
+    <!-- 7: Inverse Surface -->
+    <item type="color" name="cnod7">@android:color/system_neutral1_100</item>
+    <!-- 8: Inverse On Surface -->
+    <item type="color" name="cnod8">@android:color/system_neutral1_900</item>
+    <!-- 9: Surface Bright -->
+    <item type="color" name="cnod9">@android:color/system_neutral1_800</item>
+    <!-- 10: Surface Dim -->
+    <item type="color" name="cnod10">@android:color/system_neutral1_1000</item>
+    <!-- 11: Surface Container Low -->
+    <item type="color" name="cnod11">@android:color/system_neutral1_900</item>
+    <!-- 12: Surface Container High -->
+    <item type="color" name="cnod12">@android:color/system_neutral1_800</item>
+    <!-- 13: Surface Container Lowest -->
+    <item type="color" name="cnod13">@android:color/system_neutral1_1000</item>
+    <!-- 14: Surface Container Highest -->
+    <item type="color" name="cnod14">@android:color/system_neutral1_700</item>
+    <!-- 15: Surface Container -->
+    <item type="color" name="cnod15">@android:color/system_neutral1_800</item>
+    <!-- 16: Primary -->
+    <item type="color" name="cnod16">@android:color/system_neutral1_50</item>
+    <!-- 17: On Primary -->
+    <item type="color" name="cnod17">@android:color/system_neutral1_900</item>
+    <!-- 18: Primary Container -->
+    <item type="color" name="cnod18">@android:color/system_neutral1_800</item>
+    <!-- 19: On Primary Container -->
+    <item type="color" name="cnod19">@android:color/system_neutral1_50</item>
+    <!-- 20: Primary Fixed -->
+    <item type="color" name="cnod20">@android:color/system_neutral1_100</item>
+    <!-- 21: Primary Fixed Dim -->
+    <item type="color" name="cnod21">@android:color/system_neutral1_200</item>
+    <!-- 22: On Primary Fixed -->
+    <item type="color" name="cnod22">@android:color/system_neutral1_900</item>
+    <!-- 23: On Primary Fixed Variant -->
+    <item type="color" name="cnod23">@android:color/system_neutral1_800</item>
+    <!-- 24: Inverse Primary -->
+    <item type="color" name="cnod24">@android:color/system_neutral1_900</item>
+    <!-- 25: Secondary -->
+    <item type="color" name="cnod25">@android:color/system_neutral2_300</item>
+    <!-- 26: On Secondary -->
+    <item type="color" name="cnod26">@android:color/system_neutral2_900</item>
+    <!-- 27: Secondary Container -->
+    <item type="color" name="cnod27">@android:color/system_neutral2_700</item>
+    <!-- 28: On Secondary Container -->
+    <item type="color" name="cnod28">@android:color/system_neutral2_100</item>
+    <!-- 29: Secondary Fixed -->
+    <item type="color" name="cnod29">@android:color/system_neutral2_100</item>
+    <!-- 30: Secondary Fixed Dim -->
+    <item type="color" name="cnod30">@android:color/system_neutral2_200</item>
+    <!-- 31: On Secondary Fixed -->
+    <item type="color" name="cnod31">@android:color/system_neutral2_900</item>
+    <!-- 32: On Secondary Fixed Variant -->
+    <item type="color" name="cnod32">@android:color/system_neutral2_800</item>
+    <!-- 33: Tertiary -->
+    <item type="color" name="cnod33">@android:color/system_neutral2_200</item>
+    <!-- 34: On Tertiary -->
+    <item type="color" name="cnod34">@android:color/system_neutral2_900</item>
+    <!-- 35: Tertiary Container -->
+    <item type="color" name="cnod35">@android:color/system_neutral2_800</item>
+    <!-- 36: On Tertiary Container -->
+    <item type="color" name="cnod36">@android:color/system_neutral2_100</item>
+    <!-- 37: Tertiary Fixed -->
+    <item type="color" name="cnod37">@android:color/system_neutral2_200</item>
+    <!-- 38: Tertiary Fixed Dim -->
+    <item type="color" name="cnod38">@android:color/system_neutral2_300</item>
+    <!-- 39: On Tertiary Fixed -->
+    <item type="color" name="cnod39">@android:color/system_neutral2_900</item>
+    <!-- 40: On Tertiary Fixed Variant -->
+    <item type="color" name="cnod40">@android:color/system_neutral2_800</item>
+    <!-- 41: Error -->
+    <color name="cnod41">#D71921</color>
+    <!-- 42: On Error -->
+    <color name="cnod42">#FFFFFF</color>
+    <!-- 43: Error Container -->
+    <color name="cnod43">#4A070A</color>
+    <!-- 44: On Error Container -->
+    <color name="cnod44">#FAD1D3</color>
+    <!-- 45: Outline -->
+    <item type="color" name="cnod45">@android:color/system_neutral2_400</item>
+    <!-- 46: Outline Variant -->
+    <item type="color" name="cnod46">@android:color/system_neutral2_700</item>
+    <!-- 47: erPrimary -->
+    <color name="cnod47">#D71921</color>
+    <!-- 48: erOnPrimary -->
+    <color name="cnod48">#FFFFFF</color>
+    <!-- 49: erPrimaryContainer -->
+    <color name="cnod49">#4A070A</color>
+    <!-- 50: erOnPrimaryContainer -->
+    <color name="cnod50">#FAD1D3</color>
+</resources>
+

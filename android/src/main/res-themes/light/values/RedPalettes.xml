@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  Theme: Red (Light)  -->
+    <!-- 1: Background -->
+    <color name="crl1">#FFF8F7</color>
+    <!-- 2: On Background -->
+    <color name="crl2">#231918</color>
+    <!-- 3: Surface -->
+    <color name="crl3">#FFF8F7</color>
+    <!-- 4: On Surface -->
+    <color name="crl4">#231918</color>
+    <!-- 5: Surface Variant -->
+    <color name="crl5">#F5DDDA</color>
+    <!-- 6: On Surface Variant -->
+    <color name="crl6">#534341</color>
+    <!-- 7: Inverse Surface -->
+    <color name="crl7">#392E2D</color>
+    <!-- 8: Inverse On Surface -->
+    <color name="crl8">#FFEDEA</color>
+    <!-- 9: Surface Bright -->
+    <color name="crl9">#FFF8F7</color>
+    <!-- 10: Surface Dim -->
+    <color name="crl10">#E8D6D4</color>
+    <!-- 11: Surface Container Low -->
+    <color name="crl11">#FFF1EF</color>
+    <!-- 12: Surface Container High -->
+    <color name="crl12">#F3E0DE</color>
+    <!-- 13: Surface Container Lowest -->
+    <color name="crl13">#FFFFFF</color>
+    <!-- 14: Surface Container Highest -->
+    <color name="crl14">#EDDAD8</color>
+    <!-- 15: Surface Container -->
+    <color name="crl15">#F8E9E8</color>
+    <!-- 16: Primary -->
+    <color name="crl16">#C00100</color>
+    <!-- 17: On Primary -->
+    <color name="crl17">#FFFFFF</color>
+    <!-- 18: Primary Container -->
+    <color name="crl18">#FFDAD4</color>
+    <!-- 19: On Primary Container -->
+    <color name="crl19">#410000</color>
+    <!-- 20: Primary Fixed -->
+    <color name="crl20">#FFDAD4</color>
+    <!-- 21: Primary Fixed Dim -->
+    <color name="crl21">#FFB4A8</color>
+    <!-- 22: On Primary Fixed -->
+    <color name="crl22">#410000</color>
+    <!-- 23: On Primary Fixed Variant -->
+    <color name="crl23">#930000</color>
+    <!-- 24: Inverse Primary -->
+    <color name="crl24">#FFB4A8</color>
+    <!-- 25: Secondary -->
+    <color name="crl25">#775651</color>
+    <!-- 26: On Secondary -->
+    <color name="crl26">#FFFFFF</color>
+    <!-- 27: Secondary Container -->
+    <color name="crl27">#FFDAD4</color>
+    <!-- 28: On Secondary Container -->
+    <color name="crl28">#2C1512</color>
+    <!-- 29: Secondary Fixed -->
+    <color name="crl29">#FFDAD4</color>
+    <!-- 30: Secondary Fixed Dim -->
+    <color name="crl30">#E7BDB6</color>
+    <!-- 31: On Secondary Fixed -->
+    <color name="crl31">#2C1512</color>
+    <!-- 32: On Secondary Fixed Variant -->
+    <color name="crl32">#5D3F3B</color>
+    <!-- 33: Tertiary -->
+    <color name="crl33">#705C2E</color>
+    <!-- 34: On Tertiary -->
+    <color name="crl34">#FFFFFF</color>
+    <!-- 35: Tertiary Container -->
+    <color name="crl35">#FCDFA6</color>
+    <!-- 36: On Tertiary Container -->
+    <color name="crl36">#251A00</color>
+    <!-- 37: Tertiary Fixed -->
+    <color name="crl37">#FCDFA6</color>
+    <!-- 38: Tertiary Fixed Dim -->
+    <color name="crl38">#DEC38C</color>
+    <!-- 39: On Tertiary Fixed -->
+    <color name="crl39">#251A00</color>
+    <!-- 40: On Tertiary Fixed Variant -->
+    <color name="crl40">#564419</color>
+    <!-- 41: Error -->
+    <color name="crl41">#BA1A1A</color>
+    <!-- 42: On Error -->
+    <color name="crl42">#FFFFFF</color>
+    <!-- 43: Error Container -->
+    <color name="crl43">#FFDAD6</color>
+    <!-- 44: On Error Container -->
+    <color name="crl44">#410002</color>
+    <!-- 45: Outline -->
+    <color name="crl45">#A08C8A</color>
+    <!-- 46: Outline Variant -->
+    <color name="crl46">#D8C2BE</color>
+</resources>
+
