@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/infowagnerdomenik-jpg/Universal-Search-for-Android/main/assets/icons/original/Search_App_Icon.svg" width="120" alt="Universal Search Icon">
   
   <h1>Design Engine Plug-In</h1>
-  <p><b>The core UI & UX framework powering the Universal Search ecosystem.</b></p>
+  <p><b>The core UI, UX & Theming framework powering the Universal Search ecosystem.</b></p>
   
   [![Android Support](https://img.shields.io/badge/Android-14_to_16_QPR2_(API_34--36.1)-3DDC84?style=for-the-badge&logo=android)](https://www.android.com/)
   [![Flutter](https://img.shields.io/badge/Flutter-UI_Framework-02569B?style=for-the-badge&logo=flutter)](https://flutter.dev/)
@@ -15,7 +15,7 @@
 
 This repository contains the **Design Engine**, a specialized Flutter plug-in developed to provide a consistent, highly customizable, and modern user interface for the [Universal Search App](https://github.com/infowagnerdomenik-jpg/Universal-Search-for-Android).
 
-It acts as the "visual brain" of the ecosystem, managing everything from complex stacked-card layouts to granular transparency settings and AMOLED-ready dark modes. By separating the design logic into this plug-in, the main app remains lightweight and focused on orchestration.
+It acts as the "visual brain" of the ecosystem, managing everything from dynamic system theming to granular manual color overrides and AMOLED-ready dark modes. By separating the design logic into this plug-in, the main app remains lightweight and focused on orchestration.
 
 > [!NOTE]
 > **Developer Resource:**
@@ -41,18 +41,18 @@ While this plug-in provides the UI components, the actual applications are found
 <table>
   <tr>
     <td width="50%">
-      <b>🔳 Stacked Card System</b><br>
-      A modular UI system that groups settings and results into elegant, overlapping cards, following the latest Google design standards.
+      <b>🎨 Dynamic & Manual Theming</b><br>
+      Allows the UI to seamlessly inherit the system design or be overridden with strict manual accent colors (Standard, Blue, Green, Red, and a dedicated Nothing OS theme).
     </td>
     <td width="50%">
       <b>🌗 AMOLED Intelligence</b><br>
-      Built-in support for true black themes, ensuring maximum power efficiency and visual depth on modern OLED displays.
+      Built-in support for true black themes via an "Extra Dark Mode" toggle, ensuring maximum power efficiency and visual depth on modern OLED displays.
     </td>
   </tr>
   <tr>
     <td width="50%">
       <b>🎚️ Granular Customization</b><br>
-      Provides the logic for real-time transparency adjustments, corner radius control, and dynamic layout reordering (Drag & Drop).
+      Provides the logic for real-time transparency adjustments, corner radius control, and dynamic layout reordering (Drag & Drop for search results).
     </td>
     <td width="50%">
       <b>🚀 High-Performance Rendering</b><br>
