@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/infowagnerdomenik-jpg/Universal-Search-for-Android/main/assets/icons/original/Search_App_Icon.svg" width="120" alt="Universal Search Icon">
   
   <h1>Design Engine Plug-In</h1>
-  <p><b>The core UI, UX & Theming framework powering the Universal Search ecosystem.</b></p>
+  <p><b>The core accent color switching framework powering the Universal Search ecosystem.</b></p>
   
   [![Android Support](https://img.shields.io/badge/Android-14_to_16_QPR2_(API_34--36.1)-3DDC84?style=for-the-badge&logo=android)](https://www.android.com/)
   [![Flutter](https://img.shields.io/badge/Flutter-UI_Framework-02569B?style=for-the-badge&logo=flutter)](https://flutter.dev/)
@@ -13,19 +13,19 @@
 
 ## 🎨 What is this?
 
-This repository contains the **Design Engine**, a specialized Flutter plug-in developed to provide a consistent, highly customizable, and modern user interface for the [Universal Search App](https://github.com/infowagnerdomenik-jpg/Universal-Search-for-Android).
+This repository contains the **Design Engine**, a specialized Flutter plug-in developed for the [Universal Search App](https://github.com/infowagnerdomenik-jpg/Universal-Search-for-Android).
 
-It acts as the "visual brain" of the ecosystem, managing everything from dynamic system theming to granular manual color overrides and AMOLED-ready dark modes. By separating the design logic into this plug-in, the main app remains lightweight and focused on orchestration.
+It serves as the logical backbone for managing and applying different **color accent themes**. It allows the application to switch either dynamically with the Android system theme or to be manually overridden with a predefined selection of accent colors. This decouples the core color logic from the main application.
 
 > [!NOTE]
 > **Developer Resource:**
-> This is a code-only plug-in. There is no APK to install. Developers can use this repository as a reference or dependency to implement the same "Universal Search" design language in their own Flutter projects.
+> This is a code-only plug-in. There is no polished final UI in this repository. Developers can use this as a reference or dependency to implement basic color accent switching logic.
 
 ---
 
 ## 📦 Ecosystem Overview
 
-While this plug-in provides the UI components, the actual applications are found in the following repositories:
+While this plug-in provides the color logic, the actual applications are found in the following repositories:
 
 | Component | Type | Link |
 | :--- | :--- | :--- |
@@ -38,25 +38,17 @@ While this plug-in provides the UI components, the actual applications are found
 
 ## ✨ Features
 
+Based strictly on the demonstration UI in this repository, the engine provides the following color management capabilities:
+
 <table>
   <tr>
     <td width="50%">
-      <b>🎨 Dynamic & Manual Theming</b><br>
-      Allows the UI to seamlessly inherit the system design or be overridden with strict manual accent colors (Standard, Blue, Green, Red, and a dedicated Nothing OS theme).
+      <b>🎨 Manual Color Overrides</b><br>
+      Provides functionality to force the application to use specific accent colors: Standard, Red, Green, Blue, and a dedicated Nothing OS theme.
     </td>
     <td width="50%">
-      <b>🌗 AMOLED Intelligence</b><br>
-      Built-in support for true black themes via an "Extra Dark Mode" toggle, ensuring maximum power efficiency and visual depth on modern OLED displays.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b>🎚️ Granular Customization</b><br>
-      Provides the logic for real-time transparency adjustments, corner radius control, and dynamic layout reordering (Drag & Drop for search results).
-    </td>
-    <td width="50%">
-      <b>🚀 High-Performance Rendering</b><br>
-      Optimized for Flutter to ensure that even with over 1,200 lines of UI logic, the interface remains stutter-free and responsive on API 34 through 36.1.
+      <b>🔄 Dynamic System Integration</b><br>
+      Supports inheriting the active accent color from the Android system theme, keeping the app consistent with the device’s dynamic coloring.
     </td>
   </tr>
 </table>
@@ -65,7 +57,7 @@ While this plug-in provides the UI components, the actual applications are found
 
 ## 🛠️ Usage for Developers
 
-To use this engine in your own Flutter environment:
+To use this color engine in your own Flutter environment:
 
 1. Clone this repository.
 2. Add the path to your `pubspec.yaml`:
@@ -73,4 +65,3 @@ To use this engine in your own Flutter environment:
    dependencies:
      design_engine:
        path: ../Design-Engine-Plug-In-for-the-search-app
-   
